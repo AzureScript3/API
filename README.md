@@ -3,7 +3,7 @@ Want to join the server? Join here! dsc.gg/moontech Confused? Look at examples h
 https://github.com/AzureScript3/API/blob/main/example
 # Initialization
 **! Forgeting this step will result in your script not working !**
-```
+```lua
 -- At the top of your script, add this
 local Moontech = loadstring(game:HttpGet("https://raw.githubusercontent.com/AzureScript3/API/main/Api.lua", true))()
 ```
@@ -11,12 +11,12 @@ local Moontech = loadstring(game:HttpGet("https://raw.githubusercontent.com/Azur
 ## Documentation
 
 **Mailbox function**
-```
+```lua
 Moontech.Mailmessage = "" -- anything you want.
 ```
 
 **Discord Webhook function**
-```
+```lua
 Moontech.Discord_Webhook = <> -- true/false
 Moontech.images = "" -- discord webhook profile
 ```
